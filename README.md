@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>Hello, I'm FoxyCodeX<br /><img src="https://tenor.com/bRAAi.gif" height="120px"></h2>
+  <h2>Hello, I'm FoxyCodeX<br /><img src="https://c.tenor.com/BLGdy1AswS8AAAAC/komi-komi-san.gif" height="120px"></h2>
   </a>
   <br />
 </div>
