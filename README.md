@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <div align="center">
-  <h2>Hello, I'm FoxyCodeX<br /><img src="https://c.tenor.com/BLGdy1AswS8AAAAC/komi-komi-san.gif" height="120px"></h2>
+  <h2>Hello, I'm WolfCodeX<br /><img src="https://c.tenor.com/-MkO88tLTiMAAAAC/kaori-your-lie-in-april.gif" height="120px"></h2>
   </a>
   <br />
 </div>
@@ -14,8 +14,8 @@
 <!-- About -->
 <h2>📌 About me</h2>
 
-- 💻 I started programming very recently, so I'm still learning as I go. I'm open to any types of feedbacks!
-- 🎮 What game do I play? Of course <b>Minecraft</b>!
+- 💻 I started programming newbie, so I'm still learning as I go. I'm open to any types of feedbacks!
+- 🎮 What game do I play? Of course <b>Mobile Legends</b> And <b>Minecraft</b>!
 - 🕒 When I have free time, I usually start a new Project
 
 <!-- Socials -->
